@@ -1,7 +1,7 @@
 # Sim 2
+An ALU Implementation Within Java
 
-## An ALU Implementation Within Java
-### Capabilities
+## Capabilities
 - AND
 - OR
 - XOR
